@@ -1,0 +1,51 @@
+_repo: The-Mantle-and-Other-Stories_36238
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+  translator:
+    agent_name: Field, Claud
+    alias: Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolaj
+    - Gogol, Nikolay Vasilyevich
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: ''
+gutenberg_issued: '2011-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Gogol, Nikolai Vasilevich, 1809-1852 -- Translations into English'
+- !lcc 'PG'
+tableOfContents: The mantle -- The nose -- Memoirs of a madman -- A May night -- The
+  Viy.
+title: The Mantle, and Other Stories
+url: http://www.gutenberg.org/ebooks/36238
