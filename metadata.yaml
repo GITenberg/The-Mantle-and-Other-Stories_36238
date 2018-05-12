@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/531
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36238#The-Mantle-and-Other-Stories
 gutenberg_issued: '2011-05-27'
 gutenberg_type: Text
 identifiers:
